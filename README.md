@@ -16,4 +16,6 @@
 7. 
 
 
-## Other Crates reference [Crates](https://github.com/rust-unofficial/awesome-rust)
+## Other Crates reference
+1. [Crates](https://github.com/rust-unofficial/awesome-rust)
+2. [Crates](https://medium.com/@jondot/12-killer-rust-libraries-you-should-know-c60bab07624f)
