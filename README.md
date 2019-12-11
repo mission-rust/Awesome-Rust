@@ -2,7 +2,7 @@
 
 ## Crates
 1. REST Api 
-  [x] [rocket](https://rocket.rs/)
+- [x] [rocket](https://rocket.rs/)
 2. ORM 
   [x] [diesel](http://diesel.rs/)
 3. Template Engine
@@ -18,5 +18,5 @@
 
 
 
-[x] [clap](https://clap.rs/)
+- [x] [clap](https://clap.rs/)
 
