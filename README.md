@@ -1,1 +1,3 @@
-# Rust
+# Awesome Rust
+
+## REST Api [rocket](https://rocket.rs/)
