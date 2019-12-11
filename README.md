@@ -11,5 +11,12 @@
 5. JOSN
   [x] [serde_json](https://docs.serde.rs/serde_json/)
 5. CLI Tool
+  [x] [clap](https://clap.rs/)
 6. Linq
 7. 
+
+
+
+
+[x] [clap](https://clap.rs/)
+
