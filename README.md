@@ -8,6 +8,8 @@
 3. Template Engine
   - [x] [handlebars](https://github.com/sunng87/handlebars-rust)
 4. Pdf
+  - [x] [wkhtmltopdf]()
+  - [x] [Example](https://www.innoq.com/en/blog/rust-report-generator/)
 5. JOSN
   - [x] [serde_json](https://docs.serde.rs/serde_json/)
 5. CLI Tool
